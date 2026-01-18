@@ -62,5 +62,3 @@ python inference_llama.py
     --model "$MODEL"  
 ```
 
-
-# CompSelect
