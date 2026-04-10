@@ -69,7 +69,7 @@ python inference_llama.py
 If you feel this project is helpful, please consider cite our report 😊.
 
 ```
-@inproceedings{ompselect,
+@inproceedings{compselect,
 author = {Zhang, Qianchi and Zhang, Hainan and Pang, Liang and Tong, Yongxin and Zheng, Hongwei and Zheng, Zhiming},
 title = {Less is More: Compact Clue Selection for Efficient Retrieval-Augmented Generation Reasoning},
 year = {2026},
