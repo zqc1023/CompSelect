@@ -69,14 +69,12 @@ python inference_llama.py
 If you feel this project is helpful, please consider cite our report 😊.
 
 ```
-@misc{zhang2026morecompactclueselection,
-      title={Less is More: Compact Clue Selection for Efficient Retrieval-Augmented Generation Reasoning}, 
-      author={Qianchi Zhang and Hainan Zhang and Liang Pang and Yongxin Tong and Hongwei Zheng and Zhiming Zheng},
-      year={2026},
-      eprint={2502.11811},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2502.11811}, 
+@inproceedings{ompselect,
+author = {Zhang, Qianchi and Zhang, Hainan and Pang, Liang and Tong, Yongxin and Zheng, Hongwei and Zheng, Zhiming},
+title = {Less is More: Compact Clue Selection for Efficient Retrieval-Augmented Generation Reasoning},
+year = {2026},
+booktitle = {Proceedings of the ACM Web Conference 2026},
+pages = {1971--1982},
 }
 
 ```
