@@ -9,9 +9,9 @@ This is the repository for the paper: **Less is More: Compact Clue Selection for
 
 # Updates
 
-- 🎉 01/14/2026: CompSelect is accepted by WWW 2026 main conference!
+- 🎉 2026.01.13: CompSelect is accepted by WWW 2026 Main conference!
 
-- 🚀 23/10/2025: Release of our initial codes.
+- 🚀 2025.10.23: Release of our initial codes.
 
 # Installation
 ```shell
