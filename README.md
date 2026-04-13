@@ -9,7 +9,7 @@ This is the repository for the paper: **Less is More: Compact Clue Selection for
 
 # Updates
 
-- 🎉 2026-01-13: CompSelect is accepted by WWW 2026 Main conference!
+- 🎉 2026-01-13: CompSelect is accepted to the ACM Web Conference 2026 (WWW 2026)!
 
 - 🚀 2025-10-23: Release of our initial codes.
 
