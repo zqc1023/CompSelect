@@ -9,9 +9,9 @@ This is the repository for the paper: **Less is More: Compact Clue Selection for
 
 # Updates
 
-- 🎉 2026.01.13: CompSelect is accepted by WWW 2026 Main conference!
+- 🎉 2026-01-13: CompSelect is accepted by WWW 2026 Main conference!
 
-- 🚀 2025.10.23: Release of our initial codes.
+- 🚀 2025-10-23: Release of our initial codes.
 
 # Installation
 ```shell
@@ -69,12 +69,21 @@ python inference_llama.py
 If you feel this project is helpful, please consider cite our report 😊.
 
 ```
-@inproceedings{compselect,
+@inproceedings{zhang-compselect-2026,
 author = {Zhang, Qianchi and Zhang, Hainan and Pang, Liang and Tong, Yongxin and Zheng, Hongwei and Zheng, Zhiming},
 title = {Less is More: Compact Clue Selection for Efficient Retrieval-Augmented Generation Reasoning},
 year = {2026},
+isbn = {9798400723070},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3774904.3792158},
+doi = {10.1145/3774904.3792158},
 booktitle = {Proceedings of the ACM Web Conference 2026},
-pages = {1971--1982},
+pages = {1971–1982},
+numpages = {12},
+keywords = {retrieval-augmented generation, large language models, information retrieval},
+location = {United Arab Emirates},
+series = {WWW '26}
 }
 
 ```
